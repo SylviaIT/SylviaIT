@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SylviaIT
+- 👋 Hi, I’m @Sylvia
 - 👀 I’m interested in frontend and design
 - 🌱 I’m currently learning frontend basics and UX|UI design
 - 💞️ I’m looking to collaborate on different projects, I'm here to learn :)
